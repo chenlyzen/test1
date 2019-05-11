@@ -3,6 +3,7 @@ package com.journaldev.spring.pojo;
 import java.io.Serializable;
 
 public class User implements Serializable {
+	
 	private static final long serialVersionUID = -4333316296251054416L; 
 	String address;//("address"+i);
 
